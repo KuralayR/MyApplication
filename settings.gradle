@@ -1,0 +1,6 @@
+include ':extras'
+include ':twoactivities'
+include ':intentfilter'
+include ':multiactivity'
+include ':app'
+rootProject.name = "My Application"
